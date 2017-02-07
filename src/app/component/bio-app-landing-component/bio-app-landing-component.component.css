@@ -1,0 +1,10 @@
+.landing-page{
+    position: absolute;
+    top: 10%;
+}
+
+.page-scroll{
+    overflow-y: scroll;
+    height:1000px;
+    width:100%;
+}
