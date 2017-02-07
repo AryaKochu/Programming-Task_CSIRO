@@ -7,6 +7,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 2. Install angular cli, using the command 'npm install -g @angular/cli'
 3. Also, add "underscore":"^1.8.3" in package.json and intstall it using npm install command.
 
+##Data Set used
+Used mock up data, framed as json file, within the app folder structure --> /src/assets/api/proteins_events_data.json.
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
